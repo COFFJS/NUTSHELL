@@ -1,5 +1,5 @@
 # NUTSHELL
-(ametur at github stuffs, do not copy code:)
+(ametur at github stuffs, do not copy code)
 
 <!DOCTYPE html>
 <html>
