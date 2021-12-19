@@ -1,6 +1,7 @@
 # NUTSHELL
 (ametur at github stuffs, do not copy code)
 
+(Sorry the below did not turn into github code-show format)
 
 <!DOCTYPE html>
 <html>
